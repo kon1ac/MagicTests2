@@ -1,0 +1,6 @@
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\bin\Debug\TestDriverDevelopment.dll
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\bin\Debug\TestDriverDevelopment.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\obj\Debug\TestDriverDevelopment.csproj.AssemblyReference.cache
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\obj\Debug\TestDriverDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\obj\Debug\TestDriverDevelopment.dll
+C:\Users\kostu\OneDrive\Рабочий стол\Учеба\3 курс\Горбунова\TestDriverDevelopment\TestDriverDevelopment\obj\Debug\TestDriverDevelopment.pdb

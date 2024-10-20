@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\TestDriverDevelopment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC081F6-8F1E-4E82-AB28-B4C70A31F848}|TestDriverDevelopment.Tests\\TestDriverDevelopment.Tests.csproj|c:\\users\\kostu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0433\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\testdriverdevelopment\\testdriverdevelopment.tests\\findinginstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC081F6-8F1E-4E82-AB28-B4C70A31F848}|TestDriverDevelopment.Tests\\TestDriverDevelopment.Tests.csproj|solutionrelative:testdriverdevelopment.tests\\findinginstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E2A9D-DCF1-435B-BBEB-B0DF002F6437}|TestDriverDevelopment\\TestDriverDevelopment.csproj|c:\\users\\kostu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0433\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\testdriverdevelopment\\testdriverdevelopment\\findinginstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60E2A9D-DCF1-435B-BBEB-B0DF002F6437}|TestDriverDevelopment\\TestDriverDevelopment.csproj|solutionrelative:testdriverdevelopment\\findinginstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindingInStringsTests.cs",
+              "DocumentMoniker": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\TestDriverDevelopment\\TestDriverDevelopment.Tests\\FindingInStringsTests.cs",
+              "RelativeDocumentMoniker": "TestDriverDevelopment.Tests\\FindingInStringsTests.cs",
+              "ToolTip": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\TestDriverDevelopment\\TestDriverDevelopment.Tests\\FindingInStringsTests.cs",
+              "RelativeToolTip": "TestDriverDevelopment.Tests\\FindingInStringsTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:56:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindingInStrings.cs",
+              "DocumentMoniker": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\TestDriverDevelopment\\TestDriverDevelopment\\FindingInStrings.cs",
+              "RelativeDocumentMoniker": "TestDriverDevelopment\\FindingInStrings.cs",
+              "ToolTip": "C:\\Users\\kostu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0413\u043E\u0440\u0431\u0443\u043D\u043E\u0432\u0430\\TestDriverDevelopment\\TestDriverDevelopment\\FindingInStrings.cs",
+              "RelativeToolTip": "TestDriverDevelopment\\FindingInStrings.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:55:44.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
